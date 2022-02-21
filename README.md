@@ -20,7 +20,7 @@ Analyse exploiratoire des données (EDA):
 - Production de graphes, visualisations à partir des données
 - Réalisation d'une analyse univariée et multivariée sur les variables intéressantes avec les tests statistiques approppriés
 
-Justification de la faisabilité de l'aaplication Nutri-Rein:
+Justification de la faisabilité de l'application Nutri-Rein:
 - Identification des arguments permettant d'établir la faisabilité de l'application
 - Rédaction d'un rapport d'exploration et pitch de l'idée d'application
 
