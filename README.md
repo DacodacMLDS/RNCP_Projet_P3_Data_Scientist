@@ -39,7 +39,7 @@ Justification de la faisabilité de l'application Nutri-Rein:
 
 - Répertoire "Notebooks":
   - fichier "PSante_01_nettoyage.ipynb": fichier notebook Jupyter en Python pour le nettoyage des données
-  - fichier "PSante_02_analyse.ipynb: fichier notebook Jupyter en Python pour l'analyse des données
+  - fichier "PSante_02_analyse.ipynb": fichier notebook Jupyter en Python pour l'analyse des données
   
 - Répertoire "Soutenance":
   - fichier "PSante_03_support_soutenance_ppt.ppt": fichier support soutenance projet Powerpoint
